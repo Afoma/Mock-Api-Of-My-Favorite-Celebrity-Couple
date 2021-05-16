@@ -1,0 +1,20 @@
+{
+    "myFavoriteCouple":[
+        {
+            "id": 0,
+            "name": "Priyanka Chopra",
+            "birthday": "18th of July",
+            "favoritePerfume": "Trussardi Donna Eau de Parfum",
+            "husband": "Nick Jonas",
+            "firstMovieTitle": "Thamizhan"
+        },
+        {
+            "id":1,
+            "name": "Nick Jonas",
+            "birthday": "16th of September",
+            "favoritePerfume": "John Varvatos Nick Jonas Eau de Toilette",
+            "wife": "Priyanka Chopra",
+            "firstMovieTitle": "Camp Rock"
+        }
+    ]
+}
