@@ -1,0 +1,24 @@
+{
+  "name": "Priyanka-Chopra-Jonas-and-Nick-Jonas",
+  "version": "1.0.0",
+  "description": "Priyanka Chopra and Nick Jonas API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afoma/Priyanka-Chopra-Jonas-and-Nick-Jonas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afoma/Priyanka-Chopra-Jonas-and-Nick-Jonas/issues"
+  },
+  "homepage": "https://github.com/Afoma/Priyanka-Chopra-Jonas-and-Nick-Jonas#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
